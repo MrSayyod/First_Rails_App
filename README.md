@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# First_Rails_App
+Installing Rails by Microverse
+>>>>>>> 83f473c5502cd0d8308ac6c664400a5401aefc1b
